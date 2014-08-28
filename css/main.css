@@ -110,6 +110,7 @@ button {
 	padding-top: 6px;
 	padding-bottom: 4px;
 	border-bottom: 1px solid #cccccc;
+	cursor: pointer;
 }
 
 .list i {
